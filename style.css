@@ -47,7 +47,10 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-image: url("bg9.jpg");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/188/592/1018/old-apple-music-gradient-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .bottom{
